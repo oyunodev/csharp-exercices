@@ -1,0 +1,7 @@
+C:\Users\yurib\source\repos\Biblioetca\Biblioetca\bin\Debug\Biblioetca.exe.config
+C:\Users\yurib\source\repos\Biblioetca\Biblioetca\bin\Debug\Biblioetca.exe
+C:\Users\yurib\source\repos\Biblioetca\Biblioetca\bin\Debug\Biblioetca.pdb
+C:\Users\yurib\source\repos\Biblioetca\Biblioetca\obj\Debug\Biblioetca.csproj.AssemblyReference.cache
+C:\Users\yurib\source\repos\Biblioetca\Biblioetca\obj\Debug\Biblioetca.csproj.CoreCompileInputs.cache
+C:\Users\yurib\source\repos\Biblioetca\Biblioetca\obj\Debug\Biblioetca.exe
+C:\Users\yurib\source\repos\Biblioetca\Biblioetca\obj\Debug\Biblioetca.pdb
